@@ -2,4 +2,5 @@
     <string name="app_name">ToDo2.1</string>
     <string name="button">Button</string>
     <string name="enter_items">Enter Items</string>
+    <string name="add_items">Add Items</string>
 </resources>
